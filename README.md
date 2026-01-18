@@ -16,5 +16,3 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Add more advanced interactive and data-driven apps.
 
 * Explore visualizations, file handling, and API integrations.
-
-* Continuously refine and enhance existing apps.
