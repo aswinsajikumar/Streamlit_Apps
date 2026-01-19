@@ -11,6 +11,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Password Generator – Generate secure passwords with customizable options.
 
+* Expense Tracker - Add and track expenses
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
