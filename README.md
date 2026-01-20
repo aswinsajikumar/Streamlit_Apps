@@ -5,13 +5,15 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 **Projects Included**
 
-* Counter App – An interactive counter with increase and decrease buttons.
+* Counter App – An interactive counter with increase and decrease buttons
 
-* Text Analyzer – Analyze text input to count characters, words, and lines.
+* Text Analyzer – Analyze text input to count characters, words, and lines
 
-* Password Generator – Generate secure passwords with customizable options.
+* Password Generator – Generate secure passwords with customizable options
 
 * Expense Tracker - Add and track expenses
+
+* BMI Calculator – Calculates Body Mass Index (BMI) using height and weight input
 
 **Future Plans**
 
