@@ -15,6 +15,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * BMI Calculator – Calculates Body Mass Index (BMI) using height and weight input
 
+* To Do App - Adds and removes tasks
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
