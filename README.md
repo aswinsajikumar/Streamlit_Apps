@@ -17,6 +17,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * To Do App - Adds and removes tasks
 
+* Quote Generator - Simple random quote generator
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
