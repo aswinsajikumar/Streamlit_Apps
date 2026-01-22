@@ -19,6 +19,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Quote Generator - Simple random quote generator
 
+* Tip Calculator - Calculate tip and total amount with user input
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
