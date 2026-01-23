@@ -21,6 +21,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Tip Calculator - Calculate tip and total amount with user input
 
+* CSV Data Explorer – Upload a CSV file to preview data and view basic summary statistics
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
