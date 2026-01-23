@@ -23,6 +23,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * CSV Data Explorer – Upload a CSV file to preview data and view basic summary statistics
 
+* Unit Converter – Convert values between length and weight units
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
