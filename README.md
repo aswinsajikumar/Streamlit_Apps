@@ -27,6 +27,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Temperature Converter – Convert temperature values between Celsius, Fahrenheit, and Kelvin using dropdown selections
 
+* Simple Calculator – Perform basic arithmetic operations using user input and selection options
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
