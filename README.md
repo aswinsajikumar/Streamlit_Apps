@@ -25,6 +25,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Unit Converter – Convert values between length and weight units
 
+* Temperature Converter – Convert temperature values between Celsius, Fahrenheit, and Kelvin using dropdown selections
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
