@@ -29,6 +29,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Simple Calculator – Perform basic arithmetic operations using user input and selection options
 
+* Daily Habit Tracker – Add daily habits and mark them as completed during the session
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
