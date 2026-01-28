@@ -31,6 +31,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Daily Habit Tracker – Add daily habits and mark them as completed during the session
 
+* Password Strength Checker – Check password strength based on length and character composition
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
