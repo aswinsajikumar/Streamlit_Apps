@@ -33,6 +33,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Password Strength Checker – Check password strength based on length and character composition
 
+* Notes App – Write and save short notes using a simple interface
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
