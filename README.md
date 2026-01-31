@@ -35,6 +35,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Notes App – Write and save short notes using a simple interface
 
+* File Size Converter – Convert file sizes between common digital storage units
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
