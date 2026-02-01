@@ -37,6 +37,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * File Size Converter – Convert file sizes between common digital storage units
 
+* Text Case Converter – Convert text into uppercase, lowercase, or title case instantly
+
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
