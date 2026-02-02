@@ -39,6 +39,7 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Text Case Converter – Convert text into uppercase, lowercase, or title case instantly
 
+* Username Generator – Generate random usernames with optional characters
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
