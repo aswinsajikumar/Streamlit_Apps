@@ -42,6 +42,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Username Generator – Generate random usernames with optional characters
 
 * Word Counter – Count words, characters, and sentences from text input
+
+* QR Code Generator – Generate QR codes from text or URLs
   
 **Future Plans**
 
