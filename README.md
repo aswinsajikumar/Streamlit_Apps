@@ -44,6 +44,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Word Counter – Count words, characters, and sentences from text input
 
 * QR Code Generator – Generate QR codes from text or URLs
+
+* Email Validator – Check if an email address is formatted correctly
   
 **Future Plans**
 
