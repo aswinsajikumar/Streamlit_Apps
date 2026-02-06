@@ -46,6 +46,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * QR Code Generator – Generate QR codes from text or URLs
 
 * Email Validator – Check if an email address is formatted correctly
+
+* Pomodoro Timer – A simple focus timer based on the Pomodoro technique
   
 **Future Plans**
 
