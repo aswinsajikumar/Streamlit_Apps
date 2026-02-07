@@ -48,6 +48,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Email Validator – Check if an email address is formatted correctly
 
 * Pomodoro Timer – A simple focus timer based on the Pomodoro technique
+
+* YouTube Info Finder – Fetch video title, channel, duration, and thumbnail from a YouTube link
   
 **Future Plans**
 
