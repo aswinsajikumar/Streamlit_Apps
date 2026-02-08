@@ -50,6 +50,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Pomodoro Timer – A simple focus timer based on the Pomodoro technique
 
 * YouTube Info Finder – Fetch video title, channel, duration, and thumbnail from a YouTube link
+
+* Markdown Previewer – Write and preview Markdown text in real time
   
 **Future Plans**
 
