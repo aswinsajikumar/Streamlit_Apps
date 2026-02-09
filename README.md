@@ -52,6 +52,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * YouTube Info Finder – Fetch video title, channel, duration, and thumbnail from a YouTube link
 
 * Markdown Previewer – Write and preview Markdown text in real time
+
+* Resume Keyword Matcher – Compare resume text with job descriptions to find missing keywords
   
 **Future Plans**
 
