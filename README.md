@@ -54,6 +54,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Markdown Previewer – Write and preview Markdown text in real time
 
 * Resume Keyword Matcher – Compare resume text with job descriptions to find missing keywords
+
+* Text Difference Checker – Compare two texts and highlight changes
   
 **Future Plans**
 
