@@ -56,6 +56,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Resume Keyword Matcher – Compare resume text with job descriptions to find missing keywords
 
 * Text Difference Checker – Compare two texts and highlight changes
+
+* Age Calculator – Calculate age in years, months, and days from date of birth
   
 **Future Plans**
 
