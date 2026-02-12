@@ -58,6 +58,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Text Difference Checker – Compare two texts and highlight changes
 
 * Age Calculator – Calculate age in years, months, and days from date of birth
+
+* Loan EMI Calculator – Calculate monthly EMI and total loan repayment details
   
 **Future Plans**
 
