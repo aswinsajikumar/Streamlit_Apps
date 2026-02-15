@@ -60,6 +60,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Age Calculator – Calculate age in years, months, and days from date of birth
 
 * Loan EMI Calculator – Calculate monthly EMI and total loan repayment details
+
+* Simple Invoice Generator – Create a basic invoice and calculate total cost
   
 **Future Plans**
 
