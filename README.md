@@ -61,6 +61,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 
 * Loan EMI Calculator – Calculate monthly EMI and total loan repayment details
 
+* Image to Grayscale Converter – Upload an image and convert it to grayscale
+
 * Simple Invoice Generator – Create a basic invoice and calculate total cost
   
 **Future Plans**
