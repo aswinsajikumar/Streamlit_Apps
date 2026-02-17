@@ -64,6 +64,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Image to Grayscale Converter – Upload an image and convert it to grayscale
 
 * Simple Invoice Generator – Create a basic invoice and calculate total cost
+
+* Image Resizer Tool – Resize images and download the updated version
   
 **Future Plans**
 
