@@ -66,6 +66,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Simple Invoice Generator – Create a basic invoice and calculate total cost
 
 * Image Resizer Tool – Resize images and download the updated version
+
+* PDF Merger – Upload and combine multiple PDF files into one document
   
 **Future Plans**
 
