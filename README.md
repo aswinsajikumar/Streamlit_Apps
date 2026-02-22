@@ -68,6 +68,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * Image Resizer Tool – Resize images and download the updated version
 
 * PDF Merger – Upload and combine multiple PDF files into one document
+
+* Typing Speed Test – Measure typing speed and accuracy using a timed sentence
   
 **Future Plans**
 
