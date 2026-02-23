@@ -70,7 +70,8 @@ The apps range from simple tools to more advanced projects, with new apps added 
 * PDF Merger – Upload and combine multiple PDF files into one document
 
 * Typing Speed Test – Measure typing speed and accuracy using a timed sentence
-  
+
+* Unit Price Calculator – Compare products to find the best value per unit
 **Future Plans**
 
 * Add more advanced interactive and data-driven apps.
